@@ -1,0 +1,232 @@
+body {
+		background-color: grey; 
+		color: white; 
+		font-family: 'Bebas Neue', serif;
+		font-size: 12px;
+		text-align: center;
+		background-image: linear-gradient(white,grey);
+		
+		}
+		
+header {
+	
+	
+
+
+top: 0;
+
+left:0;
+
+width:;
+}
+
+ul  {
+	
+	/*display: inline-block;*/
+	border: solid 1px black;
+	padding: 17px;
+	padding-bottom:;
+	margin: ;
+	border-style: groove;
+	border-width:12px;
+	border-color: gold;
+	border-bottom-color: ;
+	border-left-color: ;
+	border-top-color: ;
+	border-right-color:;
+	border-radius: 20px;
+	text-align: left;
+	
+    }
+
+nav {
+	
+	/*float: right; 
+	
+	
+	
+	top: 0;
+	
+	right: 0;*/
+	
+	/*float: right;*/
+	
+	/*margin-top: -14em;
+	
+	margin-right: 0em;
+	
+	margin-bottom: 0;*/
+	
+	width:;
+	
+	background-color: #00000020;
+	
+	border: none;
+	
+	color: #ffffff;
+	
+	height: 200px;
+	}
+	
+	
+	
+nav ul{
+	text-align: center;
+	border: none;
+	color: #ffffff;
+	padding:;
+	}
+	
+nav ul li {
+		list-style: none;
+display: inline-block;
+color: #ffffff;
+padding: 5px;
+
+}
+
+		
+nav ul li a{
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	font-size: 250%;
+	font-family: 'Bebas Neue', sans-serif;
+padding: 25px;
+border: none;
+width:  ;
+}
+
+nav ul li a:hover{
+		background-color: gold;
+		transition: all ease 1s;
+		color: #ffffff;
+}
+
+
+	
+h1	{
+		background-color: silver; color: white;
+		text-align: center;
+		letter-spacing: 2px;
+		
+		}
+		
+		
+p   {
+		border: solid 10px white;
+		padding: 17px;
+		margin: 5px;
+		border-style: groove;
+		border-width:12px;
+		border-color: gold;
+		border-bottom-color:;
+		border-left-color:;
+		border-top-color:;
+		border-right-color:;
+		border-radius: 20px;
+		box-shadow: ;
+		border-left-width:;
+		border-right-width:;
+		font-size: 24px;
+	}
+
+table {
+	border: solid 10px white;
+		padding: 17px;
+		margin: 5px;
+		border-style: groove;
+		border-width:12px;
+		border-color: gold;
+		border-bottom-color:;
+		border-left-color:;
+		border-top-color:;
+		border-right-color:;
+		border-radius: 20px;
+		box-shadow: ;
+		border-left-width:;
+		border-right-width:;
+		font-size: 18px;
+}
+
+	
+	
+
+	
+
+
+
+	
+.container1 {
+			
+			
+			margin-left: auto;
+			margin-right: auto;
+			
+			}
+	
+.container2 {
+			  
+			display: flex;
+			
+				}
+				
+.equip		{
+			height: 150;
+			width: 24%;
+			}
+			
+.container3 	{
+			display: flex;
+			
+			}
+
+.SpecialOffer{
+		float: bottom;
+		height: 26px;
+		font-family: 'Bebas Neue', sans-serif;
+		font-size: 24px;
+		color: white;
+}
+			
+footer {
+		min-width: 410px;
+		margin-left: auto;
+		margin-right: auto;
+		font-size: calc(4pt + 0.5vw);
+		
+		}
+			
+.smlogo {
+		max-width: 20px; 
+		max-height: 20px;
+		height: 3vw;
+		width: 3vw;
+		}
+		
+nav a:link {
+		  color: white;
+        }
+		
+nav a:visited {
+		color: white;
+		}
+		
+nav a:hover {
+		color: silver;
+		
+		}
+		
+nav a:active {
+		color: black;
+		}
+		
+		
+
+		
+		
+				
+				
+
+
